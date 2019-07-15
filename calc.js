@@ -37,10 +37,18 @@ function divide(x, y){
       })
       
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 }
 
 function abs(x){
     
 >>>>>>> task/abs
+=======
+}
+
+function abs(x){
+
+    //mathjs
+>>>>>>> task/absMath
 }
