@@ -36,11 +36,19 @@ function divide(x, y){
         }
       })
       
-<<<<<<< HEAD
-=======
 }
 
 function abs(x){
     
->>>>>>> task/abs
+}
+
+function subtract(x, y){
+
+}
+
+function multiply(x, y){
+
+}
+
+function divide(x, y){
 }
