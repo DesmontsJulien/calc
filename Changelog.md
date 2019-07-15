@@ -14,3 +14,4 @@ Add new function abs
 Version0.2.1 15/07/2019 16:06
 Update Changelog
 Implement function function abs with mathjs
+

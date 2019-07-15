@@ -40,5 +40,18 @@ function divide(x, y){
 
 function abs(x){
 
-    //mathjs
+    //mathjs    
+
+}
+
+function subtract(x, y){
+
+}
+
+function multiply(x, y){
+
+}
+
+function divide(x, y){
+
 }
