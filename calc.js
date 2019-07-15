@@ -40,4 +40,17 @@ function divide(x, y){
 
 function abs(x){
     
+
+}
+
+function subtract(x, y){
+
+}
+
+function multiply(x, y){
+
+}
+
+function divide(x, y){
+
 }
