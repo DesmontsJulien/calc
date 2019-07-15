@@ -35,14 +35,19 @@ function divide(x, y){
           return 'hello, ' + name + '!'
         }
       })
+<<<<<<< HEAD
       
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
+=======
+
+>>>>>>> 5f00639031e6a63fae5b054ffb086a82df4dc4b5
 }
 
 function abs(x){
     
+<<<<<<< HEAD
 >>>>>>> task/abs
 =======
 }
@@ -51,4 +56,19 @@ function abs(x){
 
     //mathjs
 >>>>>>> task/absMath
+=======
+
+}
+
+function subtract(x, y){
+
+}
+
+function multiply(x, y){
+
+}
+
+function divide(x, y){
+
+>>>>>>> 5f00639031e6a63fae5b054ffb086a82df4dc4b5
 }
